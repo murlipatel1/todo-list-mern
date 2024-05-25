@@ -80,10 +80,8 @@ This is a simple Todo List application built using React, Node.js, Express, and 
 
 ### Frontend
 
-- Front page
 ![image](https://github.com/murlipatel1/todo-list-mern/assets/100035961/7924490c-694b-4325-b621-15013672032b)
 
-- Search option
 ![image](https://github.com/murlipatel1/todo-list-mern/assets/100035961/299195b4-2fe9-4f82-ba36-3e5980616f1c)
 
 ![image](https://github.com/murlipatel1/todo-list-mern/assets/100035961/6fc90061-b5d3-47f1-8c3f-317b4cb833a4)
